@@ -1,0 +1,12 @@
+# 数据集（体积大，可由 torchvision 自动重新下载）
+CNN/data/
+
+# PyCharm / IDE 配置
+.idea/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# Git
+.git/
