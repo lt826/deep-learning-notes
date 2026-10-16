@@ -31,6 +31,6 @@ def dm02():
     print(torch.matmul(t1, t2))
 
 if __name__ == '__main__':
-    # dm01()
+    dm01()
     dm02()
 

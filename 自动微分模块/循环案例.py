@@ -27,7 +27,7 @@ loss = x**2 + 20
 print(f"初始值:{x}, loss:{loss}")
 
 
-for i in range(100):
+for i in range(300):
     # 3.1 正向计算(前向传播)
     loss = x**2 + 20
 
